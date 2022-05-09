@@ -1,0 +1,31 @@
+<style>
+  body {
+    background-color: black;
+    color: white;
+    
+  }
+</style>
+<h2>CohenSmith.xyz</h2>
+<main>
+  <p>Click here to view more <a href="#">Portfolio Work</a>
+<div></div>
+Coding Skills Include:</p>
+<div></div>
+  <ul>
+    <li>HTML/HTML5</li>
+    <li>Python</li>
+    <li>JaveScript</li>
+  </ul>
+  <p>Education</p>
+  <ul>
+    <li>University of Manitoba, Winnipeg, MB</li>
+    <li>Normandale Community College, Bloomington, MN</li>
+    <li>Minnetonka Senior High, Minnetonka, MN</li>
+  </ul>
+
+<div></div>
+<p>Click here to view more, <a href="https://www.linkedin.com/in/cohen-smith-73b10aaa/">LinkedIn</a>.</p>
+
+
+  
+</main>
